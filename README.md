@@ -14,13 +14,13 @@ English Translation: Xu Wen please share your answer with us.
 
 * Baseline approach
 <audio controls>
-  <source src="sample1-baseline.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2019-tts-samples/raw/master/sample1-baseline.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 * Proposed approach
 <audio controls>
-  <source src="sample1-proposed.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2019-tts-samples/raw/master/sample1-proposed.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
@@ -47,13 +47,13 @@ English Translation: Using technology to push the evolution of education is our 
 
 * Baseline approach
 <audio controls>
-  <source src="sample2-baseline.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2019-tts-samples/raw/master/sample2-baseline.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 * Proposed approach
 <audio controls>
-  <source src="sample2-proposed.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2019-tts-samples/raw/master/sample2-proposed.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
