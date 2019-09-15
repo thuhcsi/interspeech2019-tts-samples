@@ -1,26 +1,27 @@
 Samples for paper [Knowledge-based Linguistic Encoding for End-to-End Mandarin Text-to-Speech Synthesis](https://github.com/thuhcsi/interspeech2019-tts-samples/raw/master/1118_Paper.pdf) at INTERSPEECH 2019
 ====
 
-## Sample 1
+### Sample 1
 
-* __Text__ (Chinese): 徐文跟我们分享一下你的答案吧。
-> (English Translation): Xu Wen please share your answer with us.
+#### Text
+(Chinese): 徐文跟我们分享一下你的答案吧。
+(English Translation): Xu Wen please share your answer with us.
 
-* Sythesized audios:
-Baseline approach:
+#### Synthesized speech
+
+* Baseline approach
 <audio controls>
   <source src="sample1-baseline.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
-Proposed approach:
-
+* Proposed approach
 <audio controls>
   <source src="sample1-proposed.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
-* Explanation:
+#### Explanation
 
 The baseline approach has word tokenization error around the 3-rd character,
 resulting in pause deletion between the 2-nd and the 3-rd characters and improper pause insertion between the 3-rd and 4-th characters.
